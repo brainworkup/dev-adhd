@@ -28,7 +28,7 @@ services:
         QUARTO_VERSION: ${QUARTO_VERSION}
     volumes:
       - ${VOLUME_PATH}:${VOLUME_PATH}
-      - /home/${USER}/.ssh:/home/${USER}/.ssh
+      - /Users/${USER}/.ssh:/Users/${USER}/.ssh
       - ${RENV_PATHS_CACHE_HOST}:${RENV_PATHS_CACHE_CONTAINER}
       - ${VOLUME_PATH}/.devcontainer/rstudio_config_dir:/home/${USER}/.config/rstudio
     restart:

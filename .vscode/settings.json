@@ -1,0 +1,15 @@
+{
+  "workbench.colorCustomizations": {
+    "activityBar.activeBackground": "#71351b",
+    "activityBar.background": "#71351b",
+    "activityBar.foreground": "#e7e7e7",
+    "activityBar.inactiveForeground": "#e7e7e799",
+    "activityBarBadge.background": "#000000",
+    "activityBarBadge.foreground": "#e7e7e7",
+    "editorGroup.border": "#71351b",
+    "sash.hoverBorder": "#71351b",
+    "tab.activeBorder": "#71351b"
+  },
+  "peacock.remoteColor": "#482211",
+  "r.rterm.linux": "/usr/local/bin/radian"
+}
